@@ -5,3 +5,6 @@
 ```
 print("Hello World")
 ```
+- [ ] Add a read me biography to GitHub page 
+- [ ] Change profile picture 
+- [ ] Add Linkedin URL to profile page
